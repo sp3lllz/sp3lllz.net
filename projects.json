@@ -5,8 +5,39 @@
         "link": "https://airpodnoises.net"
     },
     {
-        "title": "Blue Sky Profile",
-        "description": "My social profile on Blue Sky.",
-        "link": "https://bsky.app/profile/sp3lllz.net"
+        "title": "M4 Mac Mini 10 Inch Rack Bracket",
+        "description": "This is a bracket to put a M4 Mac mini in a 10 inch network rack. I takes up 1.3Us of space it works quite well on the Geekpi/Deskpi T1 rack in the bottom U as there is some extra space underneath to not waste any Us",
+        "link": "https://www.printables.com/model/1154323-mac-mini-m4-10-inch-rack"
     },
+    {
+        "title": "MagSafe Charging Station for iPhone Airpods and Apple Watch",
+        "description": "A Charging Station for your phone watch and airpods that also uses standby mode on the iphone to display the time.",
+        "link": "https://thangs.com/designer/sp3lllz/3d-model/iPhone%2015%20Pro%2C%20Apple%20Watch%20Ultra%20and%20Airpods%204%20Magsafe%20Charging%20Dock-1155532"
+    },
+    {
+        "title": "Framework Laptop Expansion Card Storage",
+        "description": "If youre like me and you own all the offical framework expansion cards including the ethernet card well then you need somewhere to put the ones your not using.",
+        "link": "https://than.gs/m/1075731"
+    },
+    {
+        "title": "Dual Shock 4 Mechanical Switch Mod",
+        "description": "A Video Outlining a Mod on the Dual Shock 4",
+        "link": "https://youtu.be/S4LXciiMrUA?si=5x5Jzwd--_Jeshew"
+    },
+    {
+        "title": "A Fix for the D Pad on the Ambernic RG35XX and Miyoo Mini",
+        "description": "This Video outlines my fix for the D-Pad on these emulator consoles.",
+        "link": "https://youtu.be/E22SsjG9BzA?si=lxQWQiLrqD6C5JJD"
+    },
+    {
+        "title": "Inky Photo Frame",
+        "description": "This is my latest project to make a digital photo frame that is virtually indistinguishable from a real photo frame. I have also written a script to pick a random number and use that to determine which photo to display you can have this refresh are whatever interval youd like with chrontab which I will detail how to do in the set up instructions.",
+        "link": "https://github.com/sp3lllz/inkyphotoframe"
+    },
+    {
+        "title": "Picodesk",
+        "description": "This is my open source hardware and software project to add memory function to IKEA motorised sit stand desks using the Resperry Pi Pico W",
+        "link": "https://github.com/sp3lllz/PICODESK"
+    },
+
 ]
