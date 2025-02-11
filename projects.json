@@ -38,6 +38,5 @@
         "title": "Picodesk",
         "description": "This is my open source hardware and software project to add memory function to IKEA motorised sit stand desks using the Resperry Pi Pico W",
         "link": "https://github.com/sp3lllz/PICODESK"
-    },
-
+    }
 ]
