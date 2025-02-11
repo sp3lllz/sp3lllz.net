@@ -8,5 +8,32 @@
         "title": "Blue Sky Profile",
         "description": "My social profile on Blue Sky.",
         "link": "https://bsky.app/profile/sp3lllz.net"
+    },
+    {
+    "title": "Mystery Blog",
+    "description": "A blog documenting supernatural mysteries and investigations.",
+    "link": "https://mysteryblog.net",
+    "image": "https://example.com/mystery.jpg"
+    },
+    {
+    "title": "Detective Stories",
+    "description": "An interactive collection of detective-themed short stories.",
+    "link": "https://detectivestories.com",
+    "images": [
+        "https://example.com/story1.jpg",
+        "https://example.com/story2.jpg",
+        "https://example.com/story3.jpg"
+    ]
+    },
+    {
+    "title": "MiniDisc Music Sync",
+    "description": "A tool for syncing MP3s to MiniDisc players over USB.",
+    "link": "https://github.com/sp3lllz/minidisc-sync",
+    "image": "https://example.com/minidisc.jpg",
+    "tech": ["Python", "Linux", "NetMD"],
+    "tags": ["Software", "Music", "Open Source"]
     }
+
+
+
 ]
